@@ -25,4 +25,5 @@ Thank you for your cooperation.
 - Discord
 - SaaS
 - notion
+- slack
 
